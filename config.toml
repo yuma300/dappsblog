@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "くりぷとぎゃんぶる研究所"
+baseURL = "https://yuma300.github.io/cryptogamble/"
+publishDir = "docs"
